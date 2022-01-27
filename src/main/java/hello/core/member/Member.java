@@ -1,5 +1,6 @@
 package hello.core.member;
 
+// 2022-01-28 Spring w전환하기
 public class Member {
 
     private Long id;
